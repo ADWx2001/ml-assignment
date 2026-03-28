@@ -29,6 +29,7 @@ $notebooks = @(
     "01_linear_regression.ipynb",
     "02_decision_tree.ipynb",
     "03_random_forest.ipynb",
+    "04_Support_Vector_Regression.ipynb",
     "05_model_comparison.ipynb"
 )
 
